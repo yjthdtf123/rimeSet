@@ -1,0 +1,26 @@
+# weasel.custom.yaml
+patch:
+  preset_color_schemes/metro:
+    author: "nameoverflow <i@hcyue.me>"
+    back_color: 0xffffff
+    border_color: 0x444444
+    hilited_back_color: 0xffffff
+    hilited_candidate_back_color: 0xfa3a0a
+    hilited_candidate_text_color: 0xffffff
+    hilited_text_color: 0x000000
+    name: "metro"
+    text_color: 0x000000
+  style/layout/border: 2
+  style/layout/margin_x: 10
+  style/layout/margin_y: 10
+  style/layout/hilite_padding: 10
+  style/layout/hilite_spacing: 10
+  style/layout/spacing: 10
+  style/layout/candidate_spacing: 20
+  style/layout/round_corner: 0
+  style/corner_radius: 0
+
+  style/font_point: 13
+  style/color_scheme: metro
+  style/horizontal: true
+  style/inline_preedit: true
